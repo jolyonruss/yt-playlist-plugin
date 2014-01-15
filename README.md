@@ -9,8 +9,11 @@ http://extensionizr.com/!#{"modules":["browser-mode","with-bg","with-persistent-
 
 
 OK, so we're getting a list of youtube tabs.
+============================================
 
 It looks like hooking up the OAuth youtube API stuff might be a little trickier
+
+Below is a dump of references
 
 Hacky load into background.js??? - http://stackoverflow.com/a/18682135/313990
 
