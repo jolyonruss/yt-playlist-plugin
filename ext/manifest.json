@@ -21,7 +21,7 @@
   },
   "permissions": [
     "tabs",
-    "http://youtube.com"
+    "https://www.youtube.com/*"
   ],
   "content_scripts": [
     {
