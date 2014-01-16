@@ -9,6 +9,16 @@ http://extensionizr.com/!#{"modules":["browser-mode","with-bg","with-persistent-
 
 
 OK, so we're getting a list of youtube tabs.
+
+
+
+
+Before we get caught up in OAuth, lets just embed them all in one long column
+
+
+
+
+
 ============================================
 
 It looks like hooking up the OAuth youtube API stuff might be a little trickier
