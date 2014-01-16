@@ -13,6 +13,8 @@ OK, so we're getting a list of youtube tabs.
 
 It looks like hooking up the OAuth youtube API stuff might be a little trickier
 
+Refused to load the script 'https://apis.google.com/js/client.js' because it violates the following Content Security Policy directive: "script-src 'self' chrome-extension-resource:".
+
 Below is a dump of references
 
 Hacky load into background.js??? - http://stackoverflow.com/a/18682135/313990
